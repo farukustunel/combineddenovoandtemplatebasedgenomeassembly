@@ -1,0 +1,7 @@
+numpy
+pandas
+ipykernel
+nbsphinx
+matplotlib
+plotly
+biopython
